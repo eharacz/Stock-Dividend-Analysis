@@ -13,4 +13,5 @@ The final result takes in a stock ticker (msft for this example) and outputs the
 (The dates that contain stock price information with have NaN for Dividends and the dates that contain Dividends will have NaN for Close Price and Volume)
 
 <br />
+
 ![Screenshot](dividend_analysis_result.png)
