@@ -9,4 +9,5 @@ The purpose of this project is to create a streamlined method of analyzing a sto
 - Dividend Yield Ratio
 - Dividend Payout Ratio
 ## Result Example (Microsoft)
+The final result takes in a stock ticker (msft for this example) and outputs the Fiver Year Dividend Growth Rate, Dividend Yield Ratio and Dividend Payout Ratio as well as a DataFrame going back five years that includes the closing price on the first of each month, outstanding shares of stock, dividend payments per share, and the stock ticker for reference. <br>
 ![Screenshot](dividend_analysis_result.png)
